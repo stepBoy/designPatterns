@@ -28,6 +28,11 @@ public class Test {
 
 
 
+        System.out.println("100cool");
+
+        System.out.println("100cool~2");
+
+
 
 
 
