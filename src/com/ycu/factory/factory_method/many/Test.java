@@ -12,6 +12,9 @@ public class Test {
         human1.talk();
 
         System.out.println("testGit");
+        System.out.println("testGit");
+
+
 
 
 
